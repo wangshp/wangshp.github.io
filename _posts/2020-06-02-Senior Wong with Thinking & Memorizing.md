@@ -4,7 +4,7 @@ title: Senior Wong's story: Thinking & Memorizing
 ---
 
 ## Day 1 "Wooo I love this"
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong1.png)
+![](images/SeniorW_Series/foodieSeniorWong1.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong2.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong3.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong4.png)
