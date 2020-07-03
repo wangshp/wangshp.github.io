@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Senior Wong's story: Thinking & Memorizing
+title: Senior Wong's story- Thinking & Memorizing
 ---
 
 ## Day 1 "Wooo I love this"
