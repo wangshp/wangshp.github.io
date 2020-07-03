@@ -2,6 +2,7 @@
 layout: post
 title: Senior Wong with Thinking & Memorizing
 ---
+
 Day 1 Something he loves
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong1.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong2.png)
@@ -11,11 +12,15 @@ Day 1 Something he loves
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong6.png)
 
 Day 2 Ignore 
-
-
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-1.png)
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-2.png)
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-3.png)
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-4.png)
 
 Day 3 Something he can't eat if only with what he has 
-
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-1.png)
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-2.png)
+![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-3.png)
 
 
 # Interest
@@ -30,7 +35,9 @@ We have to touch it, feel it and think about it by ourselves. For the reason if 
 
 ## Vision 
 
+
 ## Know your game 
+
 
 
 # Just Thinking
