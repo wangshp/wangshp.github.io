@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Senior Wong with Thinking & Memorizing
+title: Senior Wong's story: Thinking & Memorizing
 ---
 
-# Day 1 "Wooo I love this"
+## Day 1 "Wooo I love this"
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong1.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong2.png)
+![](https://octodex.github.com/images/jetpacktocat.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong3.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong4.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong5.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/foodieSeniorWong6.png)
 
-# Day 2 Ignore 
+## Day 2 Ignore 
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-1.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-2.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-3.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day2-4.png)
 
-# Day 3 Never see it before
+## Day 3 Never see it before
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-1.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-2.png)
 ![](https://github.com/wangshp/wangshp.github.io/blob/post3_seniorW/images/SeniorW_Series/Day3-3.png)
@@ -56,7 +56,7 @@ Also good questions:
 In Senior Wong's Day One experience, a triangle is in his memory, but he still need some time to remember it, I mean, retrieve it. 
 Part of the thinking process is memory retieving. In "How to solve it", Polya used this question to help student retrieve useful memory: "Here is the problem, can you think of a related problem?". So the next time you think about something, be generous to spare some minutes on remembering the related information. 
 
-## Establish connection. 
+## Establish connection
 The most rewarding moment for Senior Wong was when he realize the difference between his triangle the target triangle is the size, and by enlarging the size of his triangle he can get a same one as the target one. 
 
 In "How to solve it", Polya mentioned "The main achievement in the solution of a problem is to conceieve the idea of a plan". In other words, solve a problem is about seeing a clear connection between the known and the unknown. So besides memory retrieving, connection establishment is important as well. Polya uses the following question to inspire his student: "Here is a problem related your prblem and solved before, can you use it?" 
