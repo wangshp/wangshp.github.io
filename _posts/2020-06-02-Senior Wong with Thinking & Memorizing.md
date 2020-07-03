@@ -5,22 +5,22 @@ title: Senior Wong's story: Thinking & Memorizing
 
 ## Day 1 "Wooo I love this"
 ![](../images/SeniorW_Series/foodieSeniorWong1.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong2.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong3.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong4.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong5.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/foodieSeniorWong6.png)
+![](../images/SeniorW_Series/foodieSeniorWong2.png)
+![](../images/SeniorW_Series/foodieSeniorWong3.png)
+![](../images/SeniorW_Series/foodieSeniorWong4.png)
+![](../images/SeniorW_Series/foodieSeniorWong5.png)
+![](../images/SeniorW_Series/foodieSeniorWong6.png)
 
 ## Day 2 Ignore 
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day2-1.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day2-2.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day2-3.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day2-4.png)
+![](../images/SeniorW_Series/Day2-1.png)
+![](../images/SeniorW_Series/Day2-2.png)
+![](../images/SeniorW_Series/Day2-3.png)
+![](../images/SeniorW_Series/Day2-4.png)
 
 ## Day 3 Never see it before
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day3-1.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day3-2.png)
-![](https://github.com/wangshp/wangshp.github.io/blob/master/images/SeniorW_Series/Day3-3.png)
+![](../images/SeniorW_Series/Day3-1.png)
+![](../images/SeniorW_Series/Day3-2.png)
+![](../images/SeniorW_Series/Day3-3.png)
 
 # Interest
 Interest plays a significant role to the effectiveness of one's thinking and memorizing process, however, people tend to forget it very often. 
