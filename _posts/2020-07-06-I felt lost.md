@@ -12,11 +12,9 @@ Senior Wong最近全都经历了，但Senior Wong没有因此自甘堕落一蹶�
 
 # Cognative models # 
 ## Model #1: Text-Thoughts model ##
-//pic1
-
+![](../images/post4_iamlost/Cognitive Model-Text-Thoughts model.png)
 ## Model #2: Question-Speech model ##
-//pic2
-
+![](../images/post4_iamlost/Cognitive Model-Question-Speech model.png)
 
 ## Lesson #1: Pick the right cue ##
 在Question-Speech这个模型里，第一个需要特别关注的环节是cue的选取。跳回公共场合回答问题的场景，Senior Wong拿到问题，大声的读了一遍问题。之后就陷入了一篇寂静，三四秒没有人声的寂静。
@@ -44,19 +42,3 @@ So，Either be patient or be prepared when you are thinking about a problem.
 
 ## Lesson #3: Spend time on thought-to-speech encoding ##
 和上面提取记忆阶段的问题不同，对于这个thought-to-speech的过程，很多时候人几乎没有可以的花时间在上面，以为这是一个不需要花精力的步骤。这样导致了分享或者写作过程中感觉内容信息很熟悉，但不知为何表达起来总是磕磕绊绊或是不自觉地纠正自己刚刚说过的话。重新看这个Question-Speech Model，很多信息在thoughts层面是以数学图像，画，公式，思维结构图甚至声音感觉的形式存在，与讲话时的语言，文字，话语的承载形式之间还是存在一个gap。举个例子就像一个人只看篮球比赛而从未摸过篮球，就算他把篮球技巧讲的再天花乱坠，也不会有人想要请他做教练。而thought-to-speech encoding就是一个把篮球知识和场上得分串联的阶段，想要准确流畅的表达自己的想法，这个过程必不可少。
-
-
-
-
-
-
-
-$ A few recommendations for text-thoughts,
-1.deliberately switch from logic encoding mode to experiencer mode when (importance) story > logic 
-
-
-
-
-
-
-
