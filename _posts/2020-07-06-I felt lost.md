@@ -12,9 +12,9 @@ Senior Wong最近全都经历了，但Senior Wong没有因此自甘堕落一蹶�
 
 # Cognative models # 
 ## Model #1: Text-Thoughts model ##
-![](../images/post4_iamlost/Cognitive Model-Text-Thoughts model.png)
+![](../images/post4_iamlost/CognitiveModel-Text-Thoughtsmodel.png)
 ## Model #2: Question-Speech model ##
-![](../images/post4_iamlost/Cognitive Model-Question-Speech model.png)
+![](../images/post4_iamlost/CognitiveModel-Question-Speechmodel.png)
 
 ## Lesson #1: Pick the right cue ##
 在Question-Speech这个模型里，第一个需要特别关注的环节是cue的选取。跳回公共场合回答问题的场景，Senior Wong拿到问题，大声的读了一遍问题。之后就陷入了一篇寂静，三四秒没有人声的寂静。
