@@ -1,3 +1,7 @@
+---
+layout: post
+title: What does work mean to me
+---
 Work is an important and interdependent part of one's life, it is associated with personal needs, identity, belief and hobby. It includes 2 parts, one is choosing to get involved in the mission that one and one's boss believe meaningful, the other is having fun during the process like a hobby. 
 
 Work is a part of life and just a part of life, it's not your whole life. Others parts are like family, hobbies, friends, church time…
